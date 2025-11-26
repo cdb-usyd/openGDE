@@ -9,5 +9,5 @@ An (soon to be) open-source electrochemical test platform.
 
 ## Additional hardware
 - M3 nuts and bolts (12 mm).
-- Standard nylon tube for pneumatic applications, 4mm OD with 2.5mm ID (cut to length and flattened with heat treatment and mould).
+- Standard nylon tube for pneumatic applications, 4mm OD with 2.5mm ID (cut to length and flattened with heat treatment and mold).
 - Commercial membrane (tested with Nafion and Fumasep FAD)
