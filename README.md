@@ -1,5 +1,5 @@
 # openGDE
-An open-source electrochemical test platform.
+An open-source electrochemical test platform. Manuscript DOI: 10.1071/CH25175
 
 ## Information
 - Designed in [openSCAD](https://openscad.org/), with code written as extensibly as possible for people to adapt for their needs.
